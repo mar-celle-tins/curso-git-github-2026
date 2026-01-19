@@ -10,8 +10,8 @@ Além disso, vamos trabalhar com GitFlow ao final do curso e Visual Studio Code.
 
 
 
-Confira tudo o que temos no nosso Youtube.
-
+Confira tudo no nosso Youtube. 
+Segue o link. 
 
 
 \## Fluxo de trabalho Git local
