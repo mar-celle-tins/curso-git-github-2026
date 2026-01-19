@@ -13,6 +13,9 @@ Além disso, vamos trabalhar com GitFlow ao final do curso e Visual Studio Code.
 Confira tudo no nosso Youtube. 
 Segue o link. 
 
+Além do nosso youtube, se ligue no nosso site e agenda para ficar por dentro de tudo que vai rolar em 2026.
+
+teomewhy.org
 
 \## Fluxo de trabalho Git local
 
